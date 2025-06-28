@@ -1,8 +1,53 @@
-<h2 align="left">Hello World</h2>
-![Meu Header](https://github.com/mrsneto/mrsneto/blob/main/sources/header.gif.gif?raw=true)
+<div align="center">
+<h2 align="center">Hello World</h2>
+</div>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/5b/e7/14/5be714881bbe562fb5e51c24ae773159.gif" />
+</p>
+
+<hr>
+
+<h2 align="center">Sobre Mim</h2>
+
+```js
+export default {
+  name: 'Leonardo Batista de Souza Neto',
+  from: 'Corumbá, MS, Brasil',
+  profession: 'Desenvolvedor Web',
+
+  hobbies: [
+    'Cinema',
+    'HQs',
+    'Gym',
+    'Pesca',
+    'Games',
+    'Games development',
+  ],
+
+  email: [
+    'leonardosouza.batista21@gmail.com',
+  ],
+
+  description: {
+    myProfile: `
+      Me chamo Leonardo, sou apaixonado por tecnologia, design e tudo que envolve desenvolvimento de sistemas.
+      🛠️ Tenho formação técnica em Metalurgia pelo IFMS – Campus Corumbá, e atualmente estou cursando
+      Tecnologia em Análise e Desenvolvimento de Sistemas, onde venho me aprofundando em desenvolvimento web
+      com foco especial em front-end.
+    `,
+
+    myObjective: `
+      Atualmente, estou focado em aprimorar minhas habilidades, com o objetivo de
+      obter novas experiências que possam contribuir para meu futuro. 🚀
+    `,
+  },
+};
+
+```
+<hr>
 ###
-
+<h2 align="center">Estatísticas</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrsneto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrsneto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -10,36 +55,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+
 
 ###
 
